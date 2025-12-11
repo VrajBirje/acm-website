@@ -32,7 +32,8 @@ export default function BlogDetailPage() {
     setMounted(true)
     import("@/data/blogs.json").then((module) => {
       const found = module.posts.find((p: BlogPost) => p.slug === slug)
-      setPost(found)
+      // `found` can be `undefined` if no post matches — convert to `null`
+      setPost(found ?? null)
     })
   }, [slug])
 

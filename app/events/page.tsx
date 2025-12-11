@@ -13,11 +13,11 @@ interface Event {
   id: number
   title: string
   date: string
-  time: string
-  location: string
-  description: string
+  time?: string
+  location?: string
+  description?: string
   image: string
-  registrationUrl: string
+  registrationUrl?: string
 }
 
 export default function EventsPage() {
