@@ -1,0 +1,40 @@
+{
+  "stats": [
+    {
+      "year": 2020,
+      "members": 150,
+      "events": 8,
+      "participants": 450
+    },
+    {
+      "year": 2021,
+      "members": 250,
+      "events": 15,
+      "participants": 800
+    },
+    {
+      "year": 2022,
+      "members": 400,
+      "events": 24,
+      "participants": 1400
+    },
+    {
+      "year": 2023,
+      "members": 600,
+      "events": 32,
+      "participants": 2100
+    },
+    {
+      "year": 2024,
+      "members": 850,
+      "events": 42,
+      "participants": 3200
+    },
+    {
+      "year": 2025,
+      "members": 1100,
+      "events": 48,
+      "participants": 4100
+    }
+  ]
+}

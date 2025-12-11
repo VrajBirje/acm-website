@@ -1,0 +1,54 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How do I join ACM Chapter?",
+      "answer": "You can join by clicking the 'Join Now' button on our website or attending our next event. Membership is open to all students interested in computing and technology."
+    },
+    {
+      "id": 2,
+      "question": "When are the events held?",
+      "answer": "We host events throughout the semester, typically on weekends or weekday evenings. Check our Events page for the latest schedule and registration details."
+    },
+    {
+      "id": 3,
+      "question": "How can I become a team member?",
+      "answer": "Interested in joining our leadership team? Reach out to us at contact@acmchapter.org or attend our recruitment events. We're always looking for passionate volunteers!"
+    },
+    {
+      "id": 4,
+      "question": "Do you offer mentorship programs?",
+      "answer": "Yes! We have a mentorship program connecting experienced members with newcomers. Fill out the mentorship form on our Membership page to get started."
+    },
+    {
+      "id": 5,
+      "question": "Can I sponsor an event?",
+      "answer": "We welcome sponsors. Contact us at sponsors@acmchapter.org to discuss sponsorship opportunities and benefits."
+    },
+    {
+      "id": 6,
+      "question": "How do I get research published?",
+      "answer": "We support research through our publication program. Submit your work through our Research portal or email research@acmchapter.org for more information."
+    },
+    {
+      "id": 7,
+      "question": "What projects are you currently working on?",
+      "answer": "We have several ongoing projects in ML, web development, and systems. Visit our Projects page to see details and contribution opportunities."
+    },
+    {
+      "id": 8,
+      "question": "How can I volunteer?",
+      "answer": "We're always looking for volunteers! Contact us at volunteer@acmchapter.org or fill out the volunteer form on our website."
+    },
+    {
+      "id": 9,
+      "question": "Is there a newsletter?",
+      "answer": "Yes! Subscribe to our newsletter to get updates on events, news, and opportunities. Sign up in the footer of our website."
+    },
+    {
+      "id": 10,
+      "question": "What is the membership fee?",
+      "answer": "ACM Chapter membership is free and open to all. We're committed to making computing accessible to everyone."
+    }
+  ]
+}

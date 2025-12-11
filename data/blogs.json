@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of AI in Education",
+      "slug": "future-ai-education",
+      "excerpt": "Exploring how AI is transforming learning experiences.",
+      "content": "Artificial Intelligence is revolutionizing the education sector. From personalized learning to intelligent tutoring systems, AI offers tremendous potential...",
+      "author": "Alex Chen",
+      "date": "2025-01-10",
+      "category": "AI",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=800&h=400&fit=crop",
+      "link": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Web3 and Decentralized Systems",
+      "slug": "web3-decentralized",
+      "excerpt": "Understanding blockchain and decentralized applications.",
+      "content": "Web3 represents the next evolution of the internet. Built on blockchain technology, it promises decentralization and user empowerment...",
+      "author": "Sarah Johnson",
+      "date": "2025-01-05",
+      "category": "Web3",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop",
+      "link": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Sustainable Tech Practices",
+      "slug": "sustainable-tech",
+      "excerpt": "Building environmentally conscious software solutions.",
+      "content": "As technologists, we have a responsibility to build sustainably. This article explores green coding practices and energy-efficient systems...",
+      "author": "Michael Park",
+      "date": "2024-12-28",
+      "category": "Sustainability",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1518611505867-48a0dbf1d439?w=800&h=400&fit=crop",
+      "link": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "Quantum Computing Basics",
+      "slug": "quantum-computing",
+      "excerpt": "An introduction to quantum algorithms and applications.",
+      "content": "Quantum computing represents a paradigm shift in computation. Unlike classical bits, qubits can exist in superposition...",
+      "author": "James Wilson",
+      "date": "2024-12-20",
+      "category": "Quantum",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop",
+      "link": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 5,
+      "title": "DevOps Best Practices",
+      "slug": "devops-best-practices",
+      "excerpt": "Streamlining development and operations workflows.",
+      "content": "DevOps bridges the gap between development and operations. In this guide, we explore CI/CD pipelines, containerization, and orchestration...",
+      "author": "Emily Rodriguez",
+      "date": "2024-12-15",
+      "category": "DevOps",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=800&h=400&fit=crop",
+      "link": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "Mobile App Security",
+      "slug": "mobile-app-security",
+      "excerpt": "Protecting user data in mobile applications.",
+      "content": "Mobile security is critical in today's landscape. From secure storage to encrypted communications, learn best practices...",
+      "author": "Alex Chen",
+      "date": "2024-12-10",
+      "category": "Security",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800&h=400&fit=crop",
+      "link": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=800&h=400&fit=crop"
+    }
+  ]
+}

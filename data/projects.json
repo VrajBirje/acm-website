@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "ACM Research Portal",
+      "category": "Technical",
+      "description": "Comprehensive platform for publishing and discovering research.",
+      "summary": "Central hub for ACM chapter research publications and collaboration.",
+      "techStack": ["Next.js", "PostgreSQL", "React", "Tailwind"],
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop",
+      "repoUrl": "https://github.com/acm/research-portal",
+      "demoUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Event Management System",
+      "category": "Technical",
+      "description": "Full-featured event registration and management platform.",
+      "summary": "Streamlined system for organizing and tracking chapter events.",
+      "techStack": ["React", "Node.js", "MongoDB", "Material-UI"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+      "repoUrl": "https://github.com/acm/event-manager"
+    },
+    {
+      "id": 3,
+      "title": "Hackathon Platform",
+      "category": "Event Website",
+      "description": "Interactive platform for hosting and managing hackathons.",
+      "summary": "Complete solution for registrations, submissions, and judging.",
+      "techStack": ["Next.js", "Firebase", "TypeScript"],
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=600&h=400&fit=crop",
+      "repoUrl": "https://github.com/acm/hackathon-platform"
+    },
+    {
+      "id": 4,
+      "title": "ACM Alumni Network",
+      "category": "Outreach",
+      "description": "Networking platform connecting current and past members.",
+      "summary": "Mentorship and job board for the ACM community.",
+      "techStack": ["React", "Express", "PostgreSQL"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+      "repoUrl": "https://github.com/acm/alumni-network"
+    },
+    {
+      "id": 5,
+      "title": "ML Workshop Toolkit",
+      "category": "Technical",
+      "description": "Educational toolkit for machine learning workshops.",
+      "summary": "Jupyter notebooks and interactive learning modules.",
+      "techStack": ["Python", "Jupyter", "TensorFlow"],
+      "image": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=600&h=400&fit=crop",
+      "repoUrl": "https://github.com/acm/ml-toolkit"
+    },
+    {
+      "id": 6,
+      "title": "Community Blog",
+      "category": "Content",
+      "description": "Collaborative blogging platform for member articles.",
+      "summary": "Share knowledge and insights with the ACM community.",
+      "techStack": ["Next.js", "Markdown", "Tailwind"],
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=600&h=400&fit=crop",
+      "repoUrl": "https://github.com/acm/blog"
+    }
+  ]
+}

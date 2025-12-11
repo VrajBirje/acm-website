@@ -1,0 +1,60 @@
+{
+  "sponsors": [
+    {
+      "id": 1,
+      "name": "TechCorp Solutions",
+      "tier": "Platinum",
+      "logo": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=300&h=150&fit=crop",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "name": "Innovation Labs",
+      "tier": "Platinum",
+      "logo": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=300&h=150&fit=crop",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "name": "Cloud Dynamics",
+      "tier": "Gold",
+      "logo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=300&h=150&fit=crop",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "name": "Data Systems Inc",
+      "tier": "Gold",
+      "logo": "https://images.unsplash.com/photo-1677442d019cecf8c9b0203bb00c33ff43957456e?w=300&h=150&fit=crop",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "name": "DevTools Studio",
+      "tier": "Silver",
+      "logo": "https://images.unsplash.com/photo-1518611505867-48a0dbf1d439?w=300&h=150&fit=crop",
+      "url": "#"
+    },
+    {
+      "id": 6,
+      "name": "CodeWorks",
+      "tier": "Silver",
+      "logo": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=300&h=150&fit=crop",
+      "url": "#"
+    },
+    {
+      "id": 7,
+      "name": "SecureNet",
+      "tier": "Silver",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=150&fit=crop",
+      "url": "#"
+    },
+    {
+      "id": 8,
+      "name": "FutureScale",
+      "tier": "Silver",
+      "logo": "https://images.unsplash.com/photo-1495446815901-a7297e8b7f3a?w=300&h=150&fit=crop",
+      "url": "#"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "publications": [
+    {
+      "id": 1,
+      "title": "Scalable Machine Learning Architectures",
+      "authors": ["Alex Chen", "James Wilson"],
+      "year": 2024,
+      "abstract": "This paper explores distributed ML systems and scalability patterns for modern applications.",
+      "institution": "Tech University",
+      "pdfUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Blockchain Security Vulnerabilities",
+      "authors": ["Sarah Johnson", "Michael Park"],
+      "year": 2024,
+      "abstract": "A comprehensive analysis of security issues in blockchain systems and mitigation strategies.",
+      "institution": "Research Institute",
+      "pdfUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "Human-Centered AI Design",
+      "authors": ["Emily Rodriguez"],
+      "year": 2023,
+      "abstract": "Principles and practices for designing AI systems with user wellbeing in mind.",
+      "institution": "Design Lab",
+      "pdfUrl": "#"
+    },
+    {
+      "id": 4,
+      "title": "Edge Computing in IoT",
+      "authors": ["James Wilson", "Michael Park"],
+      "year": 2023,
+      "abstract": "Edge computing architecture and optimization for Internet of Things applications.",
+      "institution": "Tech University",
+      "pdfUrl": "#"
+    },
+    {
+      "id": 5,
+      "title": "Quantum Algorithm Development",
+      "authors": ["Alex Chen"],
+      "year": 2023,
+      "abstract": "Novel quantum algorithms and their applications in optimization problems.",
+      "institution": "Quantum Research Center",
+      "pdfUrl": "#"
+    },
+    {
+      "id": 6,
+      "title": "Sustainable Software Engineering",
+      "authors": ["Michael Park", "Emily Rodriguez"],
+      "year": 2022,
+      "abstract": "Approaches to reducing carbon footprint in software development and operations.",
+      "institution": "Green Tech Initiative",
+      "pdfUrl": "#"
+    }
+  ],
+  "institutions": [
+    {
+      "id": 1,
+      "name": "Tech University",
+      "logo": "https://images.unsplash.com/photo-1495446815901-a7297e8b7f3a?w=200&h=100&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Research Institute",
+      "logo": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&h=100&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Design Lab",
+      "logo": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=200&h=100&fit=crop"
+    }
+  ]
+}

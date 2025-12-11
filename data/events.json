@@ -1,0 +1,55 @@
+{
+  "upcomingEvents": [
+    {
+      "id": 1,
+      "title": "AI/ML Workshop Series",
+      "date": "2025-01-15",
+      "time": "18:00",
+      "location": "Tech Hall, Room 101",
+      "description": "Deep dive into modern machine learning frameworks and best practices.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+      "registrationUrl": "#",
+      "fullDescription": "Join us for a comprehensive workshop on AI/ML frameworks. Learn from industry experts about TensorFlow, PyTorch, and practical applications."
+    },
+    {
+      "id": 2,
+      "title": "Web Development Masterclass",
+      "date": "2025-01-22",
+      "time": "17:00",
+      "location": "Innovation Center",
+      "description": "Master modern web technologies and best practices.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=600&h=400&fit=crop",
+      "registrationUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "Hackathon 2025",
+      "date": "2025-02-01",
+      "time": "09:00",
+      "location": "Campus Convention Center",
+      "description": "24-hour coding competition with amazing prizes.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop",
+      "registrationUrl": "#"
+    }
+  ],
+  "pastEvents": [
+    {
+      "id": 101,
+      "title": "Cloud Computing Basics",
+      "date": "2024-12-15",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 102,
+      "title": "Open Source Contribution",
+      "date": "2024-12-01",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 103,
+      "title": "Cybersecurity Panel",
+      "date": "2024-11-20",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f70a504f9?w=600&h=400&fit=crop"
+    }
+  ]
+}
